@@ -7,6 +7,7 @@ int main()
 {
     //std::cout << "Hello World!\n";
     cout << "hello there, this is version control with visual studio";
+    cout << "This is the version edited under slave branch";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
